@@ -1,0 +1,83 @@
+ul,
+ol {
+    list-style: none;
+}
+
+.navbar {
+    background-color: #333 !important;
+}
+
+.navbar li a {
+    color: white;
+}
+
+.navbar li a:hover {
+    color: red;
+}
+
+.navbar li {
+    margin: 0 10px;
+}
+
+.menu {
+    display: flex;
+    flex-direction: row;
+}
+
+.num1 {
+    font-family: 'Times New Roman', Times, serif;
+    color: white;
+    font-size: 23px;
+}
+
+.num2 {
+    color: red;
+}
+
+.num3 {
+    color: white;
+    margin-left: 240px;
+    font-size: 20px;
+    font-family: 'Courier New', Courier, monospace
+}
+
+.num4 {
+    color: white;
+    margin-left: 240px;
+    font-size: 50px;
+    font-family: 'Courier New', Courier, monospace
+}
+
+.carousel-inner img {
+    width: 100%;
+}
+
+.bgf {
+    background-color: black;
+}
+
+.numc {
+    color: white;
+}
+
+.numc1 {
+    color: white;
+}
+
+.marg {
+    display: block;
+    max-width: 100%;
+    height: 100%;
+}
+
+.marg1 {
+    display: block;
+    max-width: 100%;
+    height: 100%;
+}
+
+.marg2 {
+    display: block;
+    max-width: 100%;
+    height: 100%;
+}
