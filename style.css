@@ -36,9 +36,11 @@ ol {
 
 .num3 {
     color: white;
-    margin-left: 240px;
     font-size: 20px;
-    font-family: 'Courier New', Courier, monospace
+    font-family: 'Courier New', Courier, monospace;
+    text-align: center;
+    display: flex;
+    flex-direction: row;
 }
 
 .num4 {
@@ -120,4 +122,8 @@ ol {
 
 .card-body img a:hover {
     color: red;
+}
+
+span {
+    display: block;
 }
