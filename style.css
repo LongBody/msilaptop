@@ -48,6 +48,29 @@ ol {
     font-family: 'Courier New', Courier, monospace
 }
 
+.num5 {
+    background-color: red;
+    padding: 20px 0px;
+    color: white;
+}
+
+.num6 {
+    width: 200px;
+    height: 200px;
+}
+
+.num7 {
+    background-color: black;
+}
+
+.num8 {
+    border-color: black;
+}
+
+.num9 {
+    border-color: grey;
+}
+
 .carousel-inner img {
     width: 100%;
 }
@@ -67,7 +90,6 @@ ol {
 .marg {
     display: block;
     max-width: 100%;
-    height: 100%;
 }
 
 .marg1 {
@@ -80,4 +102,22 @@ ol {
     display: block;
     max-width: 100%;
     height: 100%;
+}
+
+.marg4 {
+    margin-left: 40px;
+}
+
+.src1 {
+    margin-top: 50px;
+    margin-left: 100px;
+}
+
+.marg3 {
+    margin-left: 115px;
+    margin-top: 85px;
+}
+
+.card-body img a:hover {
+    color: red;
 }
