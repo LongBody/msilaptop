@@ -19,11 +19,6 @@ ol {
     margin: 0 10px;
 }
 
-.menu {
-    display: flex;
-    flex-direction: row;
-}
-
 .num1 {
     font-family: 'Times New Roman', Times, serif;
     color: white;
@@ -39,8 +34,6 @@ ol {
     font-size: 20px;
     font-family: 'Courier New', Courier, monospace;
     text-align: center;
-    display: flex;
-    flex-direction: row;
 }
 
 .num4 {
@@ -63,14 +56,16 @@ ol {
 
 .num7 {
     background-color: black;
+    border-color: grey;
 }
 
 .num8 {
     border-color: black;
 }
 
-.num9 {
-    border-color: grey;
+.num10 {
+    text-align: center;
+    color: white;
 }
 
 .carousel-inner img {
@@ -120,10 +115,6 @@ ol {
     margin-top: 85px;
 }
 
-.card-body img a:hover {
+.card-body a:hover {
     color: red;
-}
-
-span {
-    display: block;
 }
